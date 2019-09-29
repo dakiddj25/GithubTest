@@ -1,8 +1,8 @@
 console.log("Hello");
 console.log("Pull John ")
 
-1. Write a block of code that checks and logs whether variables are equal or not.
-*/
+//1. Write a block of code that checks and logs whether variables are equal or not.
+
 
 let num = 5
 if(num === 2){
